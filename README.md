@@ -27,5 +27,5 @@
 <li><a target="_blank" href="https://github.com/achmadraja/cassavaleafdiseaseclassification">Cassava Leaf Disease Classification</a></li>
 <li><a target="_blank" href="https://smksetiabudhisemarang.sch.id/">SMK Setiabudhi Website</a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/achmad-raja-qodli-zaka" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<p><a target="_blank" href="https://www.linkedin.com/in/achmad-raja-qodli-zaka-2589181a5/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/raja.qz" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
